@@ -1,0 +1,42 @@
+.modal__view > button {
+  background-color: #ff7b54;
+  border: none;
+  outline-width: 0;
+}
+
+.MuiIconButton-label {
+  font-size: 20px;
+}
+
+.modal__count {
+  width: 50px;
+}
+
+.modal__ingredient {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.modal__minmax {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px 0;
+}
+
+.modal__button {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.modal__contenttitles {
+  color: aliceblue;
+  font-size: large;
+}
+
+/* .makeStyles-paper-7 {
+  background-color: #62959c !important;
+  border-radius: 25px;
+  outline-width: 0;
+} */

@@ -1,0 +1,25 @@
+.MuiCardHeader-title {
+  bottom: 10px;
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  font-size: 25px !important;
+}
+
+.MuiCard-root:hover {
+  background-color: blue !important;
+}
+
+.root {
+  position: "relative";
+  min-height: 300px;
+  max-width: 245px;
+  background-image: "";
+  background-repeat: "no-repeat" !important;
+  border-radius: 15px;
+}
+
+.card__hover:hover {
+  width: 300px;
+  height: 300px;
+}

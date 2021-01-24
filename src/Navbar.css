@@ -1,0 +1,11 @@
+.MuiAppBar-colorPrimary {
+  background-color: #ff7b54 !important;
+}
+
+.navbar__filtertitle {
+  font-size: medium;
+}
+
+.toolbar__alignment {
+  align-items: center;
+}

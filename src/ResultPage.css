@@ -1,0 +1,14 @@
+.flex__grid {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex__spacing {
+  padding: 30px;
+}
+
+.pagination__position {
+  display: flex;
+  padding-top: 30px;
+  justify-content: center;
+}
